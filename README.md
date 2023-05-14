@@ -3,8 +3,6 @@
 ## Семинар
 
 * [День 1. Общие вопросы](training_days/Training_day_1.pdf)
-* 
-* [День 2. Общие вопросы](/training_days/Training_day_2.pdf)
 
 ## Рекомендации по выполнению заданий
 
